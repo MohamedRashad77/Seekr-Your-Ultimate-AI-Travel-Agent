@@ -1,6 +1,6 @@
 # Seekr: Your Ultimate AI Travel Agent
 
-A Streamlit-powered AI travel planner that creates personalized travel itineraries. Built with:
+A Streamlit-powered AI travel plannner agent that creates personalized travel itineraries. Built with:
 - Streamlit
 - Groq AI (Llama-3.3-70b-versatile)
 - SerpAPI for real-time data
