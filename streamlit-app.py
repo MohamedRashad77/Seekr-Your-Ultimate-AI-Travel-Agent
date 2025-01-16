@@ -4,7 +4,7 @@ from phi.agent import Agent
 from phi.model.groq import Groq
 from phi.tools.serpapi_tools import SerpApiTools
 from fpdf import FPDF
-
+from utils import create_travel_prompt, generate_pdf
 # Initialize page config
 st.set_page_config(
     page_title="Seekr: Your Ultimate AI Travel Agent",
